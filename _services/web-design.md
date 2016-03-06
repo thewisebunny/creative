@@ -1,4 +1,7 @@
 ---
 title: Web Design
-image_path: /uploads/butterfly.png
+image_path: /uploads/cupcake.png
 ---
+
+
+Cool websites and stuff
