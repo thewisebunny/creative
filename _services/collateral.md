@@ -1,6 +1,6 @@
 ---
 title: Collateral
-image_path: ""
+image_path: /uploads/butterfly.png
 ---
 
 
