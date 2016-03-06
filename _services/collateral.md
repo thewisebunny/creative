@@ -1,7 +1,7 @@
 ---
-title: Web Design
+title: Collateral
 image_path: ""
 ---
 
 
-Beautiful, clean designs tailored to your business
+Awesome literature and sales aids
